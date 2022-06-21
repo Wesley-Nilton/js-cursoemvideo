@@ -1,5 +1,5 @@
-# JavaScript do Curso em Vídeo
-Repóstiorio destinado a todos os exercícios realizados durante o curso de HTML e CSS do Curso em Vídeo.
+# JavaScript - Curso em Vídeo
+Repositório destinado a todos os exercícios realizados durante o curso de JavaScript do Curso em Vídeo.
 
 ## 🛸| Tecnologias
 Na construção dos exercícios foram utilizadas as seguintes tecnologias:
